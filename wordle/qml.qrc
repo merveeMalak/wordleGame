@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>constants/AppConstants.qml</file>
+        <file>constants/qmldir</file>
+        <file>pages/PuzzlePage.qml</file>
+        <file>pages/HomePage.qml</file>
+        <file>constants/assets/grid.png</file>
+        <file>components/FinalResultPopup.qml</file>
+        <file>components/LetterBox.qml</file>
+        <file>components/KeyboardButton.qml</file>
+    </qresource>
+</RCC>
